@@ -1,0 +1,18 @@
+{
+  "name": "knight_hunt",
+  "version": "1.0.0",
+  "main": "homeJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cricapi": "^1.2.9",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "unirest": "^0.5.1"
+  }
+}
